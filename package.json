@@ -1,0 +1,27 @@
+{
+  "name": "nextjsapp",
+  "version": "1.0.0",
+  "description": "React app using next framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picklu/nextapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/picklu/nextapp/issues"
+  },
+  "homepage": "https://github.com/picklu/nextapp#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
