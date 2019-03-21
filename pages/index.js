@@ -1,5 +1,6 @@
 import Layout from '../components/MyLayout';
 import Link from 'next/link';
+import "../sass/main.scss";
 
 const PostLink = props => (
     <li>
